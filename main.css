@@ -1,0 +1,33 @@
+body {
+    background-color: #222;
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    margin: 50px auto;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.one {
+    background-color: red;
+}
+
+.two {
+    background-color: pink;
+}
+
+.three {
+    background-color: yellow;
+}
+
+.four {
+    background-color: blue;
+}
+
+#color {
+    background-color: #FFF;
+    border: 2px solid black;
+    border-radius: 50%;
+}
